@@ -88,7 +88,7 @@ export function Footer() {
               </li>
                <li>
                 <a
-                  href="/documents/Modelo prevención del delito.pdf"
+                  href="/documents/modelo-prevension-delito.pdf.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-primary-foreground/80 hover:text-primary-foreground transition-colors flex items-center gap-2 group"
@@ -110,7 +110,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="/documents/Conformación institución.pdf"
+                  href="/documents/conformacion-institucion.pdf.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-primary-foreground/80 hover:text-primary-foreground transition-colors flex items-center gap-2 group"

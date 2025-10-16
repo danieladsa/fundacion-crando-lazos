@@ -50,7 +50,7 @@ export function AboutSection() {
                   variant="outline"
                   className="border-primary text-primary hover:bg-primary hover:text-primary-foreground bg-transparent"
                 >
-                  <a href="/documents/Conformación institución.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="/documents/conformacion-institucion.pdf" target="_blank" rel="noopener noreferrer">
                     <FileText className="h-4 w-4 mr-2" />
                     Conformación institución
                   </a>
